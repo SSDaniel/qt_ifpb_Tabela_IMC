@@ -18,8 +18,8 @@ Para o Brasil, o Ministério da Saúde(MS) disponibiliza a seguinte tabela:
 
 ## Ferramenta Desenvolvida 
 Dentro da Problemática apresentada, e de modo a contribuir na aquisição, manutenção e na observação dos dados referentes ao 
-Ìndice de Massa Corporal, foi pensado o desenvolvimento de um Software,baseado na ferramenta de desenvolvimento de interfaces gráficas,
-"qtCreator", que fosse capaz de armazenar dados de indivíduos a fim de se calcular o IMC de forma automática, mostrando o estado em 
+Ìndice de Massa Corporal, foi pensado o desenvolvimento de um Software, baseado na ferramenta de desenvolvimento de interfaces gráficas
+em C++,"qtCreator", que fosse capaz de armazenar dados de indivíduos a fim de se calcular o IMC de forma automática, mostrando o estado em 
 que o ìndivíduo se encontra tendo como base a relação com a tabela estipulada pelo Minitério da Saúde.
  
 ### Funcionalidades
